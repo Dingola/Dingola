@@ -43,3 +43,5 @@ Neben C++ arbeite ich auch gelegentlich mit anderen Technologien und Projekten.
 *(Hinweis: Die Statistik beinhaltet nur Daten aus öffentlichen Repositories.)*
 
 ![Stats](./profile/stats.svg)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dingola&theme=vue&hide_border=true)](https://git.io/streak-stats)
