@@ -5,7 +5,7 @@ Neben C++ arbeite ich auch gelegentlich mit anderen Technologien und Projekten.
 
 🔗 LinkedIn: https://www.linkedin.com/in/adrian-helbig
 
-## 🛠 Technologien
+## 🛠 Tech Stack
 
 <table>
   <tr>
@@ -69,9 +69,15 @@ Neben C++ arbeite ich auch gelegentlich mit anderen Technologien und Projekten.
 ## 📊 GitHub
 *(Hinweis: Die linke Statistik beinhaltet nur Daten aus öffentlichen Repositories.)*
 
-<p align="left">
-  <img src="./profile/stats.svg" alt="GitHub Stats" height="180" />
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Dingola&theme=vue&hide_border=true" alt="GitHub Streak" height="180" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="./profile/stats.svg" alt="GitHub Stats" width="100%" />
+    </td>
+    <td width="50%">
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=Dingola&theme=vue&hide_border=true" alt="GitHub Streak" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
