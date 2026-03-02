@@ -53,6 +53,7 @@ Neben C++ arbeite ich auch gelegentlich mit anderen Technologien und Projekten.
       <a href="https://github.com/Dingola/QtWidgetsCommonLib">QtWidgetsCommonLib</a> • 
       <a href="https://github.com/Dingola/SimpleQtLogger">SimpleQtLogger</a> • 
       <a href="https://github.com/Dingola/SimpleCppLogger">SimpleCppLogger</a> • 
+      <a href="https://github.com/Dingola/QtQuickCommonLib">QtQuickCommonLib</a> • 
       <a href="https://github.com/Dingola/CommonLib">CommonLib</a> • 
       <a href="https://github.com/Dingola/PortfolioWebApp">PortfolioWebApp</a>
     </td>
