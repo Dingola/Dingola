@@ -51,6 +51,7 @@ Neben C++ arbeite ich auch gelegentlich mit anderen Technologien und Projekten.
       <b>📦 Libraries & Apps</b><br>
       <a href="https://github.com/Dingola/Qt-LogViewer">Qt-LogViewer</a> • 
       <a href="https://github.com/Dingola/QtWidgetsCommonLib">QtWidgetsCommonLib</a> • 
+      <a href="https://github.com/Dingola/QtRecordParser">QtRecordParser</a> • 
       <a href="https://github.com/Dingola/SimpleQtLogger">SimpleQtLogger</a> • 
       <a href="https://github.com/Dingola/SimpleCppLogger">SimpleCppLogger</a> • 
       <a href="https://github.com/Dingola/QtQuickCommonLib">QtQuickCommonLib</a> • 
